@@ -1,4 +1,4 @@
-/* Big tablet to 1200px (widths smaller than the 1140px row) */
+/* Big tablet to 1200px (widths smaller taht the 1140px row) */
 @media only screen and (max-width: 1200px) {
 	.hero-text-box {
 			width: 100%;
@@ -80,7 +80,6 @@
 	.sticky .main-nav li a:visited { padding: 10px 0; }
 	.sticky .mobile-nav-icon { margin-top: 10px; }
 	.sticky .mobile-nav-icon i { color: #555; }
-	
 	
 	h1 { font-size: 180%; }
 	h2 { font-size: 150%; }
